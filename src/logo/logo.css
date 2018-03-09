@@ -1,0 +1,22 @@
+.logo {
+    width: 200px;
+    height: 24px;
+}
+
+
+.leg {
+    stroke: #2196F3;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.dot {
+    r: 3.5;
+    fill:#EEEEEE;
+}
+
+.eye {
+    r: 3;
+    fill:#EEEEEE;
+}
